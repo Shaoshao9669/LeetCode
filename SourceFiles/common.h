@@ -214,4 +214,16 @@ void OutputVectorString(vector<string> strs)
 	cout << "]" << endl;
 }
 
+void OutputBoolean(bool ret)
+{
+	if (ret == true)
+	{
+		cout << "true" << endl;
+	}
+	else
+	{
+		cout << "false" << endl;
+	}
+}
+
 #endif // _COMMON_H_
