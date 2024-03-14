@@ -26,5 +26,80 @@
     <ClInclude Include="..\SourceFiles\Solution\TwoSum.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\UniquePaths.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\ReverseLinkedList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\UniquePaths2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\UniquePaths3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\WordSearch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\NumberOfIslands.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\SurroundedRegions.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\AddStrings.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\AddTwoNumbers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\ClimbingStaris.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\CombinationSum3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\CombinationSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\CombinationSum2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\MinCostClimbingStairs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\WordSearch2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\TrappingRainWater.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\TrappingRainWater2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\MaximumNumberofPointsFromGridQueries.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\RottingOranges.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\DetonateTheMaximumBombs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\NumberOfProvinces.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\BinarySearch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\ContainerWithMostWater.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\SwapNodesInPairs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\SwappingNodesInALinkedList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

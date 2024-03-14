@@ -19,6 +19,10 @@
 #include "RottingOranges.h"
 #include "DetonateTheMaximumBombs.h"
 #include "NumberOfProvinces.h"
+#include "BinarySearch.h"
+#include "ContainerWithMostWater.h"
+#include "SwapNodesInPairs.h"
+#include "SwappingNodesInALinkedList.h"
 
 using namespace TwoSum;
 using namespace UniquePaths;
@@ -41,6 +45,10 @@ using namespace MaximumNumberOfPointsFromGridQueries;
 using namespace RottingOranges;
 using namespace DetonateTheMaximumBombs;
 using namespace NumberOfProvinces;
+using namespace BinarySearch;
+using namespace ContainerWithMostWater;
+using namespace SwapNodesInPairs;
+using namespace SwappingNodesInALinkedList;
 
 int main()
 {
@@ -63,7 +71,11 @@ int main()
 //	MaximumNumberOfPointsFromGridQueries::Solution::test();
 //	RottingOranges::Solution::test();
 //	DetonateTheMaximumBombs::Solution::test();
-	NumberOfProvinces::Solution::test();
+//	NumberOfProvinces::Solution::test();
+//	BinarySearch::Solution::test();
+//	ContainerWithMostWater::Solution::test();
+//	SwapNodesInPairs::Solution::test();
+	SwappingNodesInALinkedList::Solution::test();
 
 	return 0;
 }

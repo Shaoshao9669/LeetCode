@@ -132,7 +132,32 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\SourceFiles\common.h" />
+    <ClInclude Include="..\SourceFiles\Solution\AddStrings.h" />
+    <ClInclude Include="..\SourceFiles\Solution\AddTwoNumbers.h" />
+    <ClInclude Include="..\SourceFiles\Solution\BinarySearch.h" />
+    <ClInclude Include="..\SourceFiles\Solution\ClimbingStaris.h" />
+    <ClInclude Include="..\SourceFiles\Solution\CombinationSum.h" />
+    <ClInclude Include="..\SourceFiles\Solution\CombinationSum2.h" />
+    <ClInclude Include="..\SourceFiles\Solution\CombinationSum3.h" />
+    <ClInclude Include="..\SourceFiles\Solution\ContainerWithMostWater.h" />
+    <ClInclude Include="..\SourceFiles\Solution\DetonateTheMaximumBombs.h" />
+    <ClInclude Include="..\SourceFiles\Solution\MaximumNumberofPointsFromGridQueries.h" />
+    <ClInclude Include="..\SourceFiles\Solution\MinCostClimbingStairs.h" />
+    <ClInclude Include="..\SourceFiles\Solution\NumberOfIslands.h" />
+    <ClInclude Include="..\SourceFiles\Solution\NumberOfProvinces.h" />
+    <ClInclude Include="..\SourceFiles\Solution\ReverseLinkedList.h" />
+    <ClInclude Include="..\SourceFiles\Solution\RottingOranges.h" />
+    <ClInclude Include="..\SourceFiles\Solution\SurroundedRegions.h" />
+    <ClInclude Include="..\SourceFiles\Solution\SwapNodesInPairs.h" />
+    <ClInclude Include="..\SourceFiles\Solution\SwappingNodesInALinkedList.h" />
+    <ClInclude Include="..\SourceFiles\Solution\TrappingRainWater.h" />
+    <ClInclude Include="..\SourceFiles\Solution\TrappingRainWater2.h" />
     <ClInclude Include="..\SourceFiles\Solution\TwoSum.h" />
+    <ClInclude Include="..\SourceFiles\Solution\UniquePaths.h" />
+    <ClInclude Include="..\SourceFiles\Solution\UniquePaths2.h" />
+    <ClInclude Include="..\SourceFiles\Solution\UniquePaths3.h" />
+    <ClInclude Include="..\SourceFiles\Solution\WordSearch.h" />
+    <ClInclude Include="..\SourceFiles\Solution\WordSearch2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
