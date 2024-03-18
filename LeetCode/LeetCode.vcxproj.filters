@@ -101,5 +101,26 @@
     <ClInclude Include="..\SourceFiles\Solution\SwappingNodesInALinkedList.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\MergeTwoSortedLists.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\MaxAreaOfIsland.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\MajorityElement.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\SingleNumber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\MininumPathSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\SortList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\TextJustification.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
