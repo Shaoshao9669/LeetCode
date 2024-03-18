@@ -23,6 +23,13 @@
 #include "ContainerWithMostWater.h"
 #include "SwapNodesInPairs.h"
 #include "SwappingNodesInALinkedList.h"
+#include "MergeTwoSortedLists.h"
+#include "MaxAreaOfIsland.h"
+#include "MajorityElement.h"
+#include "SingleNumber.h"
+#include "MininumPathSum.h"
+#include "SortList.h"
+#include "TextJustification.h"
 
 using namespace TwoSum;
 using namespace UniquePaths;
@@ -49,6 +56,13 @@ using namespace BinarySearch;
 using namespace ContainerWithMostWater;
 using namespace SwapNodesInPairs;
 using namespace SwappingNodesInALinkedList;
+using namespace MergeTwoSortedList;
+using namespace MaxAreaOfIsland;
+using namespace MajorityElement;
+using namespace SingleNumber;
+using namespace MininumPathSum;
+using namespace SortList;
+using namespace TextJustification;
 
 int main()
 {
@@ -75,7 +89,14 @@ int main()
 //	BinarySearch::Solution::test();
 //	ContainerWithMostWater::Solution::test();
 //	SwapNodesInPairs::Solution::test();
-	SwappingNodesInALinkedList::Solution::test();
+//	SwappingNodesInALinkedList::Solution::test();
+//	MergeTwoSortedList::Solution::test();
+//	MaxAreaOfIsland::Solution::test();
+//	MajorityElement::Solution::test();
+//	SingleNumber::Solution::test();
+//	MininumPathSum::Solution::test();
+//	SortList::Solution::test();
+	TextJustification::Solution::test();
 
 	return 0;
 }
