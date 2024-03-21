@@ -122,5 +122,20 @@
     <ClInclude Include="..\SourceFiles\Solution\TextJustification.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\LinkedListCycle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\ReverseLinkedList2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\KthLargestElementInAStream.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\KthLargestElementInAnArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SourceFiles\Solution\FindTheKthLargestIntegerInTheArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

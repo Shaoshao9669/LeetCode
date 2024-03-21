@@ -30,6 +30,11 @@
 #include "MininumPathSum.h"
 #include "SortList.h"
 #include "TextJustification.h"
+#include "LinkedListCycle.h"
+#include "ReverseLinkedList2.h"
+#include "KthLargestElementInAStream.h"
+#include "KthLargestElementInAnArray.h"
+#include "FindTheKthLargestIntegerInTheArray.h"
 
 using namespace TwoSum;
 using namespace UniquePaths;
@@ -63,6 +68,11 @@ using namespace SingleNumber;
 using namespace MininumPathSum;
 using namespace SortList;
 using namespace TextJustification;
+using namespace LinkedListCycle;
+using namespace ReversedLinkedList2;
+using namespace KthLargestElementInAStream;
+using namespace KthLargestElementInAnArray;
+using namespace FindTheKthLargestIntegerInTheArray;
 
 int main()
 {
@@ -96,7 +106,12 @@ int main()
 //	SingleNumber::Solution::test();
 //	MininumPathSum::Solution::test();
 //	SortList::Solution::test();
-	TextJustification::Solution::test();
+//	TextJustification::Solution::test();
+//	LinkedListCycle::Solution::test();
+//	ReversedLinkedList2::Solution::test();
+//	KthLargestElementInAStream::Solution::test();
+//	KthLargestElementInAnArray::Solution::test();
+	FindTheKthLargestIntegerInTheArray::Solution::test();
 
 	return 0;
 }
